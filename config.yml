@@ -1,0 +1,19 @@
+
+# The database filename. You can change it if you want.
+database-filename: "./database.sqlite"
+
+# The default color of the embeds. You can use a hex color code or a color name.
+default-color: ""
+
+# The status of the bot. You can use a string or a list of strings. If you leave it empty.
+status: ""
+
+guildId: "993546099270885386"
+
+language: "fr_FR"
+emojis:
+  emoji_success: "✅"
+  emoji_error: "❌"
+
+
+

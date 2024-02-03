@@ -1,0 +1,16 @@
+{
+    "errors": {
+        "clientMissingPerms": "__**$emoji_error Permissions manquantes**__\n\n\nJ'ai besoin des autorisations suivantes pour que cette commande fonctionne correctement : $neededPermissions",
+        "missingPerms": "**$emoji_error Vous n'avez pas la permission d'utiliser cette commande !**",
+        "command_not_found": "**$emoji_error Cette commande n'existe pas !**",
+        "permLevel": "**$emoji_error Cette commande nécessite l'autorisation : \"$name\"!**",
+        "disabled": "**$emoji_error Cette commande est actuellement désactivée !**",
+        "sendPerm": "**$emoji_error Je n'ai pas la permission d'envoyer des messages sur ce channel.**"
+    },
+
+    "commands":{
+        "ping": {
+            "response": "**$emoji_success Pong !**\n**Latence :** $ping ms"
+        }
+    }
+}
